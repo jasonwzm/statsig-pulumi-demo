@@ -1,0 +1,14 @@
+{
+  "name": "statsig-release-pipeline-demo",
+  "description": "Release Pipeline Demo",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "dependencies": {
+    "@pulumi/gcp": "7.8.0",
+    "@pulumi/pulumi": "*",
+    "@statsig/statsig-node-core": "^0.2.0"
+  }
+}

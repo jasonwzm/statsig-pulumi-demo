@@ -1,0 +1,8 @@
+name: statsig-release-pipeline-demo
+runtime:
+  name: nodejs
+  options:
+    packagemanager: npm
+description: Release Pipeline Demo
+config:
+  gcp:project: <your project>
